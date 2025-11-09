@@ -22,7 +22,7 @@
 ---
 
 
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/funda-özer-6515ab364/)
-[![Email](https://img.shields.io/badge/Email-ozerfunda45%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:ozerfunda45@gmail.com)
+### 📫 Connect with Me 
+[![LinkedIn](https://img.shields.io/badge/-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/funda-%C3%B6zer-6515ab364/)
+[![Gmail](https://img.shields.io/badge/-red?style=flat&logo=gmail&logoColor=white)](mailto:ozerfunda45@gmail.com)
 
