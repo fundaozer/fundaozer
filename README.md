@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center"> Hi, I'm Funda 👋 </h1>
 
-<!--
-**fundaozer/fundaozer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 A computer engineering student passionate about <b>Artificial Intelligence</b> and <b>Data Science</b>.<br>
+  🧠 I enjoy learning new technologies and building projects.<br>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Programming Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cs,cpp,html,css,js,github,vscode" />
+</p>
+
+---
+
+### 📚 Currently Learning
+- Data Analysis (NumPy,Pandas)
+- Data Visualization (Matplotlib, Seaborn)
+
+---
+
+### 📫 Connect with Me
+- 💼[LinkedIn](https://www.linkedin.com/in/funda-özer-6515ab364/)
+- 📧 Email: [ozerfunda45@gmail.com](mailto:ozerfunda45@gmail.com)
