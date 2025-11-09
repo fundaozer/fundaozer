@@ -23,6 +23,6 @@
 
 
 ### 📫 Connect with Me
-- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/funda-özer-6515ab364/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/funda-özer-6515ab364/)
+[![Email](https://img.shields.io/badge/Email-ozerfunda45%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:ozerfunda45@gmail.com)
 
-- 📧 Email: [ozerfunda45@gmail.com](mailto:ozerfunda45@gmail.com)
