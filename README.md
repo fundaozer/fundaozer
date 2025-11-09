@@ -21,6 +21,15 @@
 
 ---
 
+---
+
+### 📊 GitHub Stats
+![Funda's GitHub stats](https://github-readme-stats.vercel.app/api?username=fundaozer&show_icons=true&theme=tokyonight)
+
+### 💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fundaozer&layout=compact&theme=tokyonight)
+
+
 ### 📫 Connect with Me
 - 💼[LinkedIn](https://www.linkedin.com/in/funda-özer-6515ab364/)
 - 📧 Email: [ozerfunda45@gmail.com](mailto:ozerfunda45@gmail.com)
